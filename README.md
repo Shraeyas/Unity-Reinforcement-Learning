@@ -4,6 +4,8 @@
 
 ![](D:\Unity-Machine-Learning\ML-Agents-Move-To-Goal\images\MoveToGoal_Obstacles.gif)
 
+![](D:\Unity-Machine-Learning\ML-Agents-Move-To-Goal\images\rewards.jpg)
+
 | Inputs  (Continuous) | Sensors (Collected Observations) |
 | -------------------- | -------------------------------- |
 | moveX                | Agent Position                   |
