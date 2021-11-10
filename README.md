@@ -2,9 +2,9 @@
 
 ### Path Finding with Obstacles
 
-![](D:\Unity-Machine-Learning\ML-Agents-Move-To-Goal\images\MoveToGoal_Obstacles.gif)
+![](images\MoveToGoal_Obstacles.gif)
 
-![](D:\Unity-Machine-Learning\ML-Agents-Move-To-Goal\images\rewards.jpg)
+![](images\rewards.jpg)
 
 | Inputs  (Continuous) | Sensors (Collected Observations) |
 | -------------------- | -------------------------------- |
