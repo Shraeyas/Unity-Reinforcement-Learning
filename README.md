@@ -2,9 +2,9 @@
 
 ### Path Finding with Obstacles
 
-![](https://github.com/chervonij/DFL-Colab/blob/master/images/MoveToGoal_Obstacles.gif)
+![](https://github.com/Shraeyas/Unity-Reinforcement-Learning/blob/master/images/MoveToGoal_Obstacles.gif)
 
-![](https://github.com/chervonij/DFL-Colab/blob/master/images/rewards.jpg)
+![](https://github.com/Shraeyas/Unity-Reinforcement-Learning/blob/master/images/rewards.jpg)
 
 | Inputs  (Continuous) | Sensors (Collected Observations) |
 | -------------------- | -------------------------------- |
