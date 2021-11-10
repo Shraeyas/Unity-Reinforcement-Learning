@@ -2,9 +2,9 @@
 
 ### Path Finding with Obstacles
 
-![](images\MoveToGoal_Obstacles.gif)
+![](https://github.com/chervonij/DFL-Colab/blob/master/images/MoveToGoal_Obstacles.gif)
 
-![](images\rewards.jpg)
+![](https://github.com/chervonij/DFL-Colab/blob/master/images/rewards.jpg)
 
 | Inputs  (Continuous) | Sensors (Collected Observations) |
 | -------------------- | -------------------------------- |
