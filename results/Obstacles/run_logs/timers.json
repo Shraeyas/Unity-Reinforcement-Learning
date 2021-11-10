@@ -1,0 +1,49 @@
+{
+    "name": "root",
+    "metadata": {
+        "timer_format_version": "0.1.0",
+        "start_time_seconds": "1636467951",
+        "python_version": "3.7.9 (default, Aug 31 2020, 17:10:11) [MSC v.1916 64 bit (AMD64)]",
+        "command_line_arguments": "D:\\Users\\Shraeyas\\Anaconda3\\envs\\unity\\Scripts\\mlagents-learn config/moveToGoal.yaml --initialize-from=Test7 --run-id=Obstacles",
+        "mlagents_version": "0.22.0",
+        "mlagents_envs_version": "0.22.0",
+        "communication_protocol_version": "1.2.0",
+        "pytorch_version": "1.7.0+cu110",
+        "numpy_version": "1.18.5",
+        "end_time_seconds": "1636468107"
+    },
+    "total": 155.9227598,
+    "count": 1,
+    "self": 1.4880592999999749,
+    "children": {
+        "run_training.setup": {
+            "total": 0.3127812000000034,
+            "count": 1,
+            "self": 0.3127812000000034
+        },
+        "TrainerController.start_learning": {
+            "total": 154.1219193,
+            "count": 1,
+            "self": 0.0003197000000341177,
+            "children": {
+                "TrainerController._reset_env": {
+                    "total": 129.8703493,
+                    "count": 1,
+                    "self": 129.8703493
+                },
+                "TrainerController._save_models": {
+                    "total": 24.25125029999998,
+                    "count": 1,
+                    "self": 0.04614079999998921,
+                    "children": {
+                        "RLTrainer._checkpoint": {
+                            "total": 24.205109499999992,
+                            "count": 1,
+                            "self": 24.205109499999992
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

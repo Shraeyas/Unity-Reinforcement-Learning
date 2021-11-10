@@ -1,0 +1,24 @@
+{
+    "MoveToGoal": {
+        "checkpoints": [
+            {
+                "steps": 375974,
+                "file_path": "results\\Obstacles_v9\\MoveToGoal\\MoveToGoal-375974.onnx",
+                "reward": null,
+                "creation_time": 1636544036.7886925
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 375974,
+            "file_path": "results\\Obstacles_v9\\MoveToGoal.onnx",
+            "reward": null,
+            "creation_time": 1636544036.7886925
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.2.0",
+        "mlagents_version": "0.22.0",
+        "torch_version": "1.7.0+cu110",
+        "tensorflow_version": -1
+    }
+}
